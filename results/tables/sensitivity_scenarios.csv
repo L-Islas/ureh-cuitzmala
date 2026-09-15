@@ -1,0 +1,7 @@
+"escenario","tipo_escenario","evidencia_retirada","pregunta"
+"M0","control","Ninguna","Referencia completa"
+"M1","principal","Cobertura + suelo + pendiente","Dependencia de informacion estructural local"
+"M2","principal","Precipitacion + evidencia blanda de escorrentia","Dependencia de informacion climatica/hidrologica local"
+"M3","principal","Aporte acumulado de aguas arriba","Dependencia de informacion asociada con el aporte aguas arriba"
+"Sin cobertura","diagnostico","Cobertura","Distinguir el efecto de cobertura dentro de M1"
+"Sin suelo + pendiente","diagnostico","Suelo + pendiente","Distinguir el efecto indirecto de suelo y pendiente dentro de M1"
