@@ -1,0 +1,5 @@
+"geopackage","layer","n_features","n_unique_ids","epsg","purpose"
+"results/spatial/ureh_results.gpkg","m0_ureh",899,899,32613,"M0 UREH classification and posterior results"
+"results/spatial/ureh_results.gpkg","sensitivity",4495,899,32613,"Evidence-removal sensitivity scenarios in long format"
+"results/spatial/ureh_results.gpkg","tm_diagnostic",899,899,32613,"Network-only versus Thornthwaite-Mather diagnostic"
+"results/spatial/ureh_results.gpkg","clustering_c1_c2",899,899,32613,"Final k=12 C1/C2 clustering assignments and C2-UREH attributes"
