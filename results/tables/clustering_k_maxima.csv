@@ -1,0 +1,3 @@
+"escenario","k_max_silhouette","silhouette_maxima","silhouette_mediana","proporcion_silhouette_negativa","cluster_min_n","cluster_mediana_n","cluster_max_n","maximo_en_limite_superior"
+"C1",12,0.583695914297445,0.667667276091373,0.0333704115684093,29,47.5,265,FALSE
+"C2",12,0.525093531100211,0.598103928450999,0.0389321468298109,25,47,261,FALSE
