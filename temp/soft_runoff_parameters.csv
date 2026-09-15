@@ -1,0 +1,6 @@
+"parameter","value","role"
+"b1_esc",272431,"Upper limit of full low-runoff membership"
+"b2_esc",455102,"Start of full medium-runoff membership"
+"m1_esc",675599,"End of full medium-runoff membership"
+"m2_esc",1021751,"Start of full high-runoff membership"
+"epsilon_esc",0.05,"Regularization applied to the three runoff evidence weights"
