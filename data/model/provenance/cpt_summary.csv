@@ -1,0 +1,19 @@
+"CPT","Nodo hijo","Padres","Número de combinaciones","Criterio principal","...6"
+"1","Infiltración","Suelo, cobertura, pendiente, precipitación","180","Suelo + cobertura deciden; pendiente + precipitación soportan.",NA
+"2","Escorrentía","Infiltración, precipitación","9","Precipitación define magnitud; infiltración modula la dominancia.",NA
+"3","Función hidrológica","Aporte aguas arriba, escorrentía","12","Aporte aguas arriba define posición; escorrentía modula expresión.",NA
+"4","UREH","Función hidrológica, cobertura","15","Función define tipo; cobertura define conservación/degradación.",NA
+"TOTAL",NA,NA,"216",NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+"CPT","Caso crítico","Resultado esperado","Resultado generado","Cumple","Justificación"
+"Infiltración","Suelo alta infiltración + forestal conservada + pendiente baja + precipitación alta","alta","alta","Sí","Todos los factores apoyan infiltración alta."
+"Infiltración","Suelo salino + forestal conservada + pendiente baja + precipitación alta","baja","baja","Sí","El suelo salino mantiene la restricción dominante."
+"Infiltración","Suelo somero + forestal secundaria","Media con tendencia baja","Media con tendencia baja","Sí","La cobertura mejora el estado, sin eliminar la limitación de profundidad."
+"Escorrentía","Precipitación alta + infiltración alta","Alta con soporte débil","Alta con soporte débil","Sí","Alta infiltración amortigua, pero no elimina el excedente alto."
+"Escorrentía","Precipitación baja + infiltración baja","Baja con soporte débil","Baja con soporte débil","Sí","La baja disponibilidad domina aunque la infiltración baja contradiga."
+"Función hidrológica","Sin agua disponible + escorrentía alta","Aporte fuerte","Aporte fuerte","Sí","Generación local sin contribución aguas arriba."
+"Función hidrológica","Aporte alto + escorrentía alta","Recepción débil","Recepción débil","Sí","La posición receptora se conserva, pero la escorrentía alta la debilita."
+"UREH","Recepción + hidrófila-humedal","Receptora conservada fuerte","Receptora conservada fuerte","Sí","La cobertura hidrófila refuerza la función receptora conservada."
+"UREH","Transferencia + forestal secundaria","Transferencia conservada moderada","Transferencia conservada moderada","Sí","La vegetación secundaria mantiene tendencia conservada."
+"UREH","Aporte + antrópica","Aporte degradada fuerte","Aporte degradada fuerte","Sí","La función define el tipo y la cobertura antrópica la degradación."

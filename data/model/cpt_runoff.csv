@@ -1,0 +1,10 @@
+"infiltracion","precipitacion","esc_baja","esc_media","esc_alta"
+"inf_baja","prec_baja",0.5,0.3,0.2
+"inf_media","prec_baja",0.6,0.25,0.15
+"inf_alta","prec_baja",0.7,0.2,0.1
+"inf_baja","prec_media",0.2,0.5,0.3
+"inf_media","prec_media",0.15,0.7,0.15
+"inf_alta","prec_media",0.3,0.5,0.2
+"inf_baja","prec_alta",0.1,0.2,0.7
+"inf_media","prec_alta",0.15,0.25,0.6
+"inf_alta","prec_alta",0.2,0.3,0.5

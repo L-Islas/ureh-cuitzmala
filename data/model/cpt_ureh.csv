@@ -1,0 +1,16 @@
+"funcion_hidrologica","cobertura","aporte_conservada","aporte_degradada","transferencia_conservada","transferencia_degradada","receptora_conservada","receptora_degradada"
+"aporte","forestal_conservada",0.7,0.22,0.02,0.02,0.02,0.02
+"aporte","forestal_secundaria",0.6,0.32,0.02,0.02,0.02,0.02
+"aporte","hidrofila_humedal",0.6,0.32,0.02,0.02,0.02,0.02
+"aporte","agropecuaria",0.32,0.6,0.02,0.02,0.02,0.02
+"aporte","antropica",0.22,0.7,0.02,0.02,0.02,0.02
+"transferencia","forestal_conservada",0.02,0.02,0.7,0.22,0.02,0.02
+"transferencia","forestal_secundaria",0.02,0.02,0.6,0.32,0.02,0.02
+"transferencia","hidrofila_humedal",0.02,0.02,0.6,0.32,0.02,0.02
+"transferencia","agropecuaria",0.02,0.02,0.32,0.6,0.02,0.02
+"transferencia","antropica",0.02,0.02,0.22,0.7,0.02,0.02
+"recepcion","forestal_conservada",0.02,0.02,0.02,0.02,0.7,0.22
+"recepcion","forestal_secundaria",0.02,0.02,0.02,0.02,0.6,0.32
+"recepcion","hidrofila_humedal",0.02,0.02,0.02,0.02,0.7,0.22
+"recepcion","agropecuaria",0.02,0.02,0.02,0.02,0.32,0.6
+"recepcion","antropica",0.02,0.02,0.02,0.02,0.22,0.7

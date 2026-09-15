@@ -1,0 +1,13 @@
+"aporte","escorrentia","aporte_prob","transferencia_prob","recepcion_prob"
+"aporte_muy_bajo","esc_baja",0.5,0.3,0.2
+"aporte_muy_bajo","esc_media",0.6,0.25,0.15
+"aporte_muy_bajo","esc_alta",0.7,0.2,0.1
+"aporte_bajo","esc_baja",0.5,0.3,0.2
+"aporte_bajo","esc_media",0.6,0.25,0.15
+"aporte_bajo","esc_alta",0.7,0.2,0.1
+"aporte_medio","esc_baja",0.3,0.5,0.2
+"aporte_medio","esc_media",0.15,0.7,0.15
+"aporte_medio","esc_alta",0.1,0.7,0.2
+"aporte_alto","esc_baja",0.1,0.2,0.7
+"aporte_alto","esc_media",0.15,0.25,0.6
+"aporte_alto","esc_alta",0.2,0.3,0.5

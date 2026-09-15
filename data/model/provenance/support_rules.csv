@@ -1,0 +1,19 @@
+"Estado dominante","Variable","Clase","Evaluación","Soporte 1","Soporte 2","Resultado"
+"alta","Pendiente","baja","Apoya","Apoya","Apoya","Fuerte"
+"alta","Pendiente","media","Neutral","Apoya","Neutral","Fuerte"
+"alta","Pendiente","alta","Contradice","Apoya","Contradice","Moderado"
+"alta","Precipitación","baja","Contradice","Neutral","Apoya","Fuerte"
+"alta","Precipitación","media","Neutral","Neutral","Neutral","Moderado"
+"alta","Precipitación","alta","Apoya","Neutral","Contradice","Débil"
+"media","Pendiente","baja","Neutral","Contradice","Apoya","Moderado"
+"media","Pendiente","media","Apoya","Contradice","Neutral","Débil"
+"media","Pendiente","alta","Contradice","Contradice","Contradice","Débil"
+"media","Precipitación","baja","Contradice",NA,NA,NA
+"media","Precipitación","media","Apoya",NA,NA,NA
+"media","Precipitación","alta","Neutral",NA,NA,NA
+"baja","Pendiente","baja","Contradice",NA,NA,NA
+"baja","Pendiente","media","Neutral",NA,NA,NA
+"baja","Pendiente","alta","Apoya",NA,NA,NA
+"baja","Precipitación","baja","Apoya",NA,NA,NA
+"baja","Precipitación","media","Neutral",NA,NA,NA
+"baja","Precipitación","alta","Contradice",NA,NA,NA
