@@ -1,0 +1,3 @@
+"escenario","tipo_escenario","evidencia_retirada","n_unidades","n_MAP_estable","n_MAP_cambio","porcentaje_MAP_estable","mediana_distancia_JS","mediana_delta_entropia"
+"Sin cobertura","diagnostico","Cobertura",899,565,334,62.8476084538376,0.156743147073798,0.019182571905796
+"Sin suelo + pendiente","diagnostico","Suelo + pendiente",899,899,0,100,0.000546638399312106,8.78067261269599e-05

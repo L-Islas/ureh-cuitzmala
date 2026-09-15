@@ -1,0 +1,4 @@
+"escenario","tipo_escenario","evidencia_retirada","n_unidades","n_MAP_estable","n_MAP_cambio","porcentaje_MAP_estable","mediana_distancia_JS","mediana_delta_entropia"
+"M1","principal","Cobertura + suelo + pendiente",899,565,334,62.8476084538376,0.161270856983431,0.019222560294752
+"M2","principal","Precipitacion + evidencia blanda de escorrentia",899,899,0,100,0.0596576827939298,-0.003995304797757
+"M3","principal","Aporte acumulado de aguas arriba",899,402,497,44.7163515016685,0.174472819158508,0.055746171368073

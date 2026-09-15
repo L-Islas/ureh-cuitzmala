@@ -1,0 +1,13 @@
+"escenario","UREH_M0","UREH_escenario","n","porcentaje","cambio_MAP"
+"Sin cobertura","aporte_conservada","aporte_conservada",308,34.2602892102336,FALSE
+"Sin cobertura","transferencia_conservada","transferencia_conservada",180,20.0222469410456,FALSE
+"Sin cobertura","transferencia_degradada","transferencia_conservada",130,14.460511679644,TRUE
+"Sin cobertura","aporte_degradada","aporte_conservada",128,14.238042269188,TRUE
+"Sin cobertura","receptora_conservada","receptora_conservada",77,8.5650723025584,FALSE
+"Sin cobertura","receptora_degradada","receptora_conservada",76,8.45383759733037,TRUE
+"Sin suelo + pendiente","aporte_conservada","aporte_conservada",308,34.2602892102336,FALSE
+"Sin suelo + pendiente","transferencia_conservada","transferencia_conservada",180,20.0222469410456,FALSE
+"Sin suelo + pendiente","transferencia_degradada","transferencia_degradada",130,14.460511679644,FALSE
+"Sin suelo + pendiente","aporte_degradada","aporte_degradada",128,14.238042269188,FALSE
+"Sin suelo + pendiente","receptora_conservada","receptora_conservada",77,8.5650723025584,FALSE
+"Sin suelo + pendiente","receptora_degradada","receptora_degradada",76,8.45383759733037,FALSE
