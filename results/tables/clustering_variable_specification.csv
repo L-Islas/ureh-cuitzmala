@@ -1,0 +1,7 @@
+"variable","type","included_in","treatment","gower_weight"
+"USyV","nominal","C1 and C2","Original categories; nominal factor",1
+"Suelos","nominal","C1 and C2","Original categories; nominal factor",1
+"Grad_Pend","ordinal","C1 and C2","Ordered factor; five original slope classes",1
+"P_sum","numeric","C1 and C2","Original continuous scale; missing values retained",1
+"Esc_sum","numeric","C1 and C2","Original continuous scale",1
+"Agua_D_log","numeric","C2 only","log1p(Agua_D)",1

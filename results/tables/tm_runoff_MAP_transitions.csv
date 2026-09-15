@@ -1,0 +1,7 @@
+"MAP_runoff_network","MAP_runoff_TM","n","percentage","changed"
+"esc_baja","esc_baja",309,34.3715239154616,FALSE
+"esc_media","esc_media",188,20.9121245828699,FALSE
+"esc_alta","esc_media",132,14.6829810901001,TRUE
+"esc_alta","esc_alta",118,13.1256952169077,FALSE
+"esc_media","esc_baja",107,11.9021134593993,TRUE
+"esc_alta","esc_baja",45,5.0055617352614,TRUE
