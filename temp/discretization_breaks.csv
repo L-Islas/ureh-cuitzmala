@@ -1,0 +1,14 @@
+"variable","method","transformed","break_order","break_value"
+"P_sum","quantile",FALSE,1,54491.4279785156
+"P_sum","quantile",FALSE,2,1058970.70239258
+"P_sum","quantile",FALSE,3,1980681.99835205
+"P_sum","quantile",FALSE,4,11548267.7122803
+"Esc_sum","jenks",FALSE,1,0
+"Esc_sum","jenks",FALSE,2,371892.504608154
+"Esc_sum","jenks",FALSE,3,925391.327148438
+"Esc_sum","jenks",FALSE,4,3946624.24389648
+"Agua_D_log","jenks",TRUE,1,0
+"Agua_D_log","jenks",TRUE,2,5.32534870559907
+"Agua_D_log","jenks",TRUE,3,14.1105999434098
+"Agua_D_log","jenks",TRUE,4,16.9997298253841
+"Agua_D_log","jenks",TRUE,5,19.7219262537687

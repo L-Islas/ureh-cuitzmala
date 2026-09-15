@@ -133,6 +133,7 @@ cpt_files <- c(
 # ------------------------------------------------------------
 
 n_expected_units <- 899L
+expected_epsg <- 32613L
 
 probability_tolerance <- 1e-10
 
