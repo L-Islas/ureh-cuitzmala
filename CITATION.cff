@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+
+title: "Ecohydrological Response Units (UREH) in the Cuitzmala River Basin"
+
+type: software
+
+authors:
+  - family-names: "Islas"
+    given-names: "Luis Alfredo"
+
+repository-code: "https://github.com/L-Islas/ureh-cuitzmala"
+
+license: MIT
+
+keywords:
+  - ecohydrology
+  - hydrological regionalization
+  - Bayesian networks
+  - Ecohydrological Response Units
+  - UREH
+  - watershed
+  - Cuitzmala River Basin
+  - hydrological function
+  - Gower distance
+  - PAM clustering
+
+abstract: >-
+  Reproducible code, analysis-ready data, Bayesian-network model
+  specification, numerical outputs, spatial results, and manuscript
+  figures supporting an ecohydrological regionalization of the
+  Cuitzmala River Basin, Jalisco, Mexico. The workflow integrates
+  local biophysical attributes, hydrological processes, and upstream
+  water contribution to derive Ecohydrological Response Units (UREH),
+  evaluate their sensitivity to controlled changes in evidence, and
+  examine their correspondence with a multivariate similarity-based
+  regionalization.
